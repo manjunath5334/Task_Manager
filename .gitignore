@@ -1,0 +1,1 @@
+-e "target/\n*.iml\n.idea/\n*.class\n*.log\n" 
